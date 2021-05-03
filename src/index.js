@@ -1,12 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
 import reportWebVitals from './reportWebVitals';
+import Temp3 from './Components/temp3';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <Temp3 />
   </React.StrictMode>,
   document.getElementById('root')
 );
